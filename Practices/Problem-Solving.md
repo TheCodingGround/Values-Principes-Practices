@@ -4,8 +4,8 @@
 
 The below steps are what we use to solve all problems at The Coding Ground.
 
-1. Understand the problem, fully.
-1. Create a first draft, high-level approach to solving the problem.
+1. Ensure you understand the problem your trying to solve by taking necessary steps to eliminate assumptions (Don't assume anything. Ask as many questions as possible).
+1. Do the simplest possible thing first.
 1. Break the task down into smaller steps, and make sure you do just enough to solve the problem.
 1. Implement the steps one by one, constantly confirming after each step that you are heading in the right direction and adding / removing steps where necessary.
 1. Once you've implemented all the steps, go through the problem again and make sure you've solved the right problem.
