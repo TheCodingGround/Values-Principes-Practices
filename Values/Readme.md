@@ -21,3 +21,5 @@ Added ourselves:
 Proposals:
 
 1. Forgiveness
+2. Tenacity
+3. Enthusiasm
