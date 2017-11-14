@@ -16,3 +16,4 @@ The below steps are what we use to solve all problems at The Coding Ground.
 1. Ask when you are not sure about what the problem is
 1. Know how to get unstuck
 1. Red, Green, Refactor
+4. Don't assume that you always understand exactly what the program flow is - use your debugger!
